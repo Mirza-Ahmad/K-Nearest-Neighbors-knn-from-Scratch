@@ -1,1 +1,0 @@
-# K-Nearest-Neighbors-knn-from-Scratch
