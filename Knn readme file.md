@@ -32,7 +32,7 @@
     score= accuracy_score(Y_test, y_pred)
     scores.append(score)
     
-![r1](https://github.com/Mirza-Ahmad/K-Nearest-Neighbors-knn-from-Scratch/assets/70958597/b426460c-a678-4e8e-9513-e7c417c69b78)
+![r1](https://user-images.githubusercontent.com/70958597/264262824-b426460c-a678-4e8e-9513-e7c417c69b78.png)
 
 
 ## ***Discuss some scenarios where knn might not be the best choice***
