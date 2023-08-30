@@ -15,7 +15,7 @@ The **"laziness"** of KNN becomes evident during the prediction phase:
 
 ### How to Select the Value of K in KNN ?
 
-Selecting the right value of k is crucial in KNN, as it can significantly impact the algorithm's performance. A smaller value of k can lead to more noise affecting predictions, while a larger value of k can result in smoother decision boundaries but may lead to overgeneralization. The process of selecting the optimal k value is known as **hyperparameter tuning**.*
+Selecting the right value of k is crucial in KNN, as it can significantly impact the algorithm's performance. A smaller value of k can lead to more noise affecting predictions, while a larger value of k can result in smoother decision boundaries but may lead to overgeneralization. The process of selecting the optimal k value is known as **hyperparameter tuning**.
 Here's a brief overview of how to select the value of k:
 
  **1.** **Odd vs. Even K Values:** Choose an odd value for k to avoid ties when there's an equal number of neighbors for different classes. This helps to avoid confusion in classifying query points.
